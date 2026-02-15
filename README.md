@@ -3,8 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra21-abro&label=Profile%20views&color=0e75b6&style=flat" alt="bushra21-abro" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bushra21-abro" alt="bushra21-abro" /></a> </p>
-
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sahiljatoi744" alt="sahiljatoi744" />
+  </a> 
+</p
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
 - 🌱 I’m currently learning **Data Science**
@@ -22,7 +25,6 @@
   - Real-time train wheel defect detection systems
  
   - ## 🌱 Research Interests
-
 - Deep Learning & Computer Vision
 - Vision AI & Real-time Detection Systems
 - Transfer Learning & Model Optimization
