@@ -3,11 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushra21-abro&label=Profile%20views&color=0e75b6&style=flat" alt="bushra21-abro" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bushraabro21" alt="bushraabro21" />
-  </a> 
-</p
 - 🔭 I’m currently working on **Machine Learning and Deep Learning Projects**
 
 - 🌱 I’m currently learning **Data Science**
@@ -19,16 +14,16 @@
   - Worked on real-time applications using computer vision
   - Developed condition monitoring systems using deep learning
 
-- 🔍 **Research Assistant** at NCRA-CMS Lab, MUET
+- 🔍 **Research Assistant** at National Center of Robotics and Automation (NCRA-CMS Lab, MUET)
   - Led projects on robotics and image processing
   - Developed traction motor fault detection systems
   - Real-time train wheel defect detection systems
  
-  - ## 🌱 Research Interests
-- Deep Learning & Computer Vision
-- Vision AI & Real-time Detection Systems
-- Transfer Learning & Model Optimization
-- Predictive Maintenance using AI
+- ## 🌱 Research Interests
+  - Deep Learning & Computer Vision
+  - Vision AI & Real-time Detection Systems
+  - Transfer Learning & Model Optimization
+  - Predictive Maintenance using AI
 
 ## 📫 Connect with Me
 
